@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on becoming sort of a full stack web developer whilst creating a website which you can find at https://github.com/lamitron/transformationalagility.co.uk/
+
 <!--
 **lamitron/lamitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
