@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm currently working on becoming sort of a full stack web developer whilst creating a website which you can find at https://github.com/lamitron/transformationalagility.co.uk/
+I'm a UK-based A Level Computer Science and Maths student working towards a job in the computer science industry!
+
+Improvements in the form of pull requests and issues are always welcome on my repositories.
 
 <!--
 **lamitron/lamitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
