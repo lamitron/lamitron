@@ -6,16 +6,15 @@ Improvements in the form of pull requests and issues are always welcome on my re
 
 Tools and technologies I'm familiar with:
 
-Git
-Python
-Java
-C++
-JavaScript
-Next.js
-React.js
-Node.js
-MongoDB
-Google Cloud 
-Google Firebase
-Amazon AWS, particularly EC2
-Cloudflare
+- Git
+- Linux
+- Python
+- JavaScript
+- Next.js
+- C++
+- React.js
+- MongoDB
+- Google Cloud 
+- Google Firebase
+- Amazon AWS, particularly EC2
+- Cloudflare
